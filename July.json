@@ -1,0 +1,1339 @@
+[
+    {
+      "Timestamp": "12/23/2023 19:27:20",
+      "Email Address": "2023081023@mmmut.ac.in",
+      "Name": "Harshit Chaturvedi ",
+      "Branch": "BBA",
+      "Year": "1st Year",
+      "Phone No.": "9561049484",
+      "DOB": "01/07/2007",
+      "Photo": "https://drive.google.com/thumbnail?id=1MhjhRUUprWfbx3GtKz2dtPCxwFsygAon",
+      "Roll No": "2023081023"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 21:24:01",
+      "Email Address": "2023081004@mmmut.ac.in",
+      "Name": "Aditya Prakash Pandey ",
+      "Branch": "BBA",
+      "Year": "1st Year",
+      "Phone No.": "9580883092",
+      "DOB": "27/07/2003",
+      "Photo": "https://drive.google.com/thumbnail?id=19CeqJw78a9tpDs-SwgoE2kpTbu_HsiLE",
+      "Roll No": "2023081004"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 23:04:16",
+      "Email Address": "2023081074@mmmut.ac.in",
+      "Name": "Yashmani Tripathi ",
+      "Branch": "BBA",
+      "Year": "1st Year",
+      "Phone No.": "6388068714",
+      "DOB": "26/07/2003",
+      "Photo": "https://drive.google.com/thumbnail?id=1dn4j8TjKZN_8MeCTrKNmCmKFNRkofNm8",
+      "Roll No": "2023081074"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 10:50:09",
+      "Email Address": "2023081033@mmmut.ac.in",
+      "Name": "Najiya Jamal ",
+      "Branch": "BBA",
+      "Year": "1st Year",
+      "Phone No.": "7897925057",
+      "DOB": "07/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1n1n22YXy0El9xQx1FbkO40Qvxln4L0tr",
+      "Roll No": "2023081033"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 8:24:55",
+      "Email Address": "prateekyadav3072004@gmail.com",
+      "Name": "Prateek Yadav",
+      "Branch": "Chemical",
+      "Year": "1st Year",
+      "Phone No.": "9335842415",
+      "DOB": "30/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1h70F3HOGSd2FsPylrOT3pQYB94cgsXMS",
+      "Roll No": "2023061046"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 18:31:05",
+      "Email Address": "2023061074@mmmut.ac.in",
+      "Name": "Vaishali Maurya ",
+      "Branch": "Chemical",
+      "Year": "1st Year",
+      "Phone No.": "9935053090",
+      "DOB": "15/07/2003",
+      "Photo": "https://drive.google.com/thumbnail?id=189C1Ecc_X9w5v6pfa5iMd4giw-sVB8fE",
+      "Roll No": "2023061074"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 18:28:27",
+      "Email Address": "2023011037@mmmut.ac.in",
+      "Name": "Garvita Gupta",
+      "Branch": "Civil",
+      "Year": "1st Year",
+      "Phone No.": "7905259096",
+      "DOB": "22/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1s8GlqkXvnnBubo8syGukUe1XNulUxJBV",
+      "Roll No": "2023011037"
+    }
+,
+    {
+      "Timestamp": "12/22/2023 21:50:25",
+      "Email Address": "jyotiradityapandey928@gmail.com",
+      "Name": "Jyotiraditya pandey ",
+      "Branch": "Civil",
+      "Year": "1st Year",
+      "Phone No.": "8852081738",
+      "DOB": "09/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=11YvZ9_DzjEFqXya0uv7IF5XN0QYGvGwe",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/22/2023 22:00:48",
+      "Email Address": "2023011070@mmmut.ac.in",
+      "Name": "Sharad Sharma ",
+      "Branch": "Civil",
+      "Year": "1st Year",
+      "Phone No.": "7570010762",
+      "DOB": "16/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1ZIJ7BQPIDkLsgrABMLyf2Vqa3SCFGSQv",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/23/2023 9:52:22",
+      "Email Address": "2023021120@mmmut.ac.in",
+      "Name": "Aryan Sharma",
+      "Branch": "CSE",
+      "Year": "1st Year",
+      "Phone No.": "7900525338",
+      "DOB": "23/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=14Uc--uZj5UrXeKhfFZL9GiTvyHzzENfW",
+      "Roll No": "2023021120"
+    }
+    
+,
+    {
+      "Timestamp": "12/22/2023 22:19:23",
+      "Email Address": "2023041182@mmmut.ac.in",
+      "Name": "Vaidyanath Soni",
+      "Branch": "ECE",
+      "Year": "1st Year",
+      "Phone No.": "7307808514",
+      "DOB": "01/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1x47sI-gR-yOVhZ3pKDrLClQrzbbiiE1N",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/23/2023 9:37:02",
+      "Email Address": "udaybhan842913@gmail.com",
+      "Name": "Uday Bhan ",
+      "Branch": "ECE",
+      "Year": "1st Year",
+      "Phone No.": "8429133984",
+      "DOB": "15/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1R2zMHOZB1wN76iyreWwui_4jnr2NaMsn",
+      "Roll No": "2023041076"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 11:03:11",
+      "Email Address": "2023041177@mmmut.ac.in",
+      "Name": "SURAJ KUMAR",
+      "Branch": "ECE",
+      "Year": "1st Year",
+      "Phone No.": "7307251698",
+      "DOB": "08/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1LEpciXNLiThc3aW0O0ZVG0mrhdcf5jZD",
+      "Roll No": "2023041177"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 13:35:11",
+      "Email Address": "2023041041@mmmut.ac.in",
+      "Name": "Kartike Tiwari ",
+      "Branch": "ECE",
+      "Year": "1st Year",
+      "Phone No.": "8881611273",
+      "DOB": "12/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1ijKmYkCl_0WlCsTVBInkYjlqoQ8xy_es",
+      "Roll No": "2023041041"
+    }
+,
+    {
+      "Timestamp": "12/22/2023 22:14:08",
+      "Email Address": "aryan2324verma@gmail.com",
+      "Name": "Aryan Verma ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "8881100537",
+      "DOB": "08/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1M4SudeGwm1-iaDlWpo7sTLSVvE-o61MZ",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/22/2023 22:32:05",
+      "Email Address": "2023031126@mmmut.ac.in",
+      "Name": "Goldi Singh ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "8756397507",
+      "DOB": "01/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1cDipRJRTIWb-mjnmOFgngdcSA0aUR2PS",
+      "Roll No": "2023031126"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 16:36:22",
+      "Email Address": "2023031005@mmmut.ac.in",
+      "Name": "Abhishek Kumar Nigam ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "8009615096",
+      "DOB": "08/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1KIauPQHSj3TZbXGzbtqjJYX9VRMovitk",
+      "Roll No": "2023031005"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 20:52:03",
+      "Email Address": "2023031127@mmmut.ac.in",
+      "Name": "Gunjan Rajput ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "9461394399",
+      "DOB": "16/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1xWR3rQ9GJ4n5Wi3pvtGiEGX1EUTykXLr",
+      "Roll No": "2023031127"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 21:16:47",
+      "Email Address": "rawatnaina888@gmail.com",
+      "Name": "Sakshi Tiwari ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "9454109707",
+      "DOB": "16/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1XHe0Ar4ZY8QupWypkZDu8hvy4J3cIL7G",
+      "Roll No": "2023031059"
+    }
+,
+    {
+      "Timestamp": "12/22/2023 21:51:47",
+      "Email Address": "2023031047@mmmut.ac.in",
+      "Name": "Nilesh Kumar ",
+      "Branch": "EE",
+      "Year": "1st Year",
+      "Phone No.": "8528855010",
+      "DOB": "10/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1w3iVDA4cZskIu-EODdHNLv9eqqLsuHoI",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/22/2023 21:54:09",
+      "Email Address": "2023041201@mmmut.ac.in",
+      "Name": "Aditya narain tiwari",
+      "Branch": "IOT",
+      "Year": "1st Year",
+      "Phone No.": "8299261179",
+      "DOB": "23/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=15ZJA2LnhHOJb91zlxN2sbXF5Khsxp0fT",
+      "Roll No": ""
+    }
+,
+    {
+      "Timestamp": "12/22/2023 22:29:55",
+      "Email Address": "2023041251@mmmut.ac.in",
+      "Name": "Saumya Katiyar ",
+      "Branch": "IOT",
+      "Year": "1st Year",
+      "Phone No.": "6388055928",
+      "DOB": "18/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1ffhgn1LeZJTTUugSpJ0qIA4lMbJMVvqJ",
+      "Roll No": "2023041251"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 11:41:15",
+      "Email Address": "2023041251@mmmut.ac.in",
+      "Name": "Saumya Katiyar ",
+      "Branch": "IOT",
+      "Year": "1st Year",
+      "Phone No.": "6388055928",
+      "DOB": "18/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1Aq85BRT_UdUuhTE2DWD3u_z_7beeD4md",
+      "Roll No": "2023041251"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 16:34:18",
+      "Email Address": "2023041249@mmmut.ac.in",
+      "Name": "RITIK KUMAR SINGH",
+      "Branch": "IOT",
+      "Year": "1st Year",
+      "Phone No.": "9670525170",
+      "DOB": "01/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1nEJNeTrZqe9R5vl-HxVxQ5wyGL_xKtIo",
+      "Roll No": "2023041249"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 12:35:12",
+      "Email Address": "2023071013@mmmut.ac.in",
+      "Name": "Anamika Yadav ",
+      "Branch": "IT",
+      "Year": "1st Year",
+      "Phone No.": "9334971038",
+      "DOB": "26/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1Gg-roE8ggH6BuUdymIscKg7xgFT6LxeK",
+      "Roll No": "2023071013"
+    }
+,
+    {
+      "Timestamp": "12/24/2023 15:46:35",
+      "Email Address": "divyadubey1026@gmail.com",
+      "Name": "Divya Dubey ",
+      "Branch": "IT",
+      "Year": "1st Year",
+      "Phone No.": "9555103074",
+      "DOB": "30/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1UwkyH5rhzW-8SMoQSLM8fpEi_Nhz84Ts",
+      "Roll No": "2023071033"
+    }
+,
+    {
+      "Timestamp": "12/23/2023 1:11:16",
+      "Email Address": "sbhardwaj7905@gmail.com",
+      "Name": "Saurabh Bhardwaj",
+      "Branch": "Mech",
+      "Year": "1st Year",
+      "Phone No.": "7905094083",
+      "DOB": "17/07/2005",
+      "Photo": "https://drive.google.com/thumbnail?id=1lezhW4fH3aAwR-x24UXZJFUp-yfffnfv",
+      "Roll No": "2023051063"
+    }
+,
+    {
+      "Timestamp": "12/27/2023 20:16:03",
+      "Email Address": "divyadubey1026@gmail.com",
+      "Name": "Divya dubey",
+      "Branch": "IT",
+      "Year": "1st Year",
+      "Phone No.": "9555103074",
+      "DOB": "30/07/2006",
+      "Photo": "https://drive.google.com/thumbnail?id=1ioHiSUslnF8Fx1Q8UkuB65WsjMLGO8Nl",
+      "Roll No": "2023071033"
+    }
+,
+    {
+      "Timestamp": "12/28/2023 4:55:37",
+      "Email Address": "2022011031@mmmut.ac.in",
+      "Name": "Manoj Kumar ",
+      "Branch": "Civil",
+      "Year": "1st Year",
+      "Phone No.": "9120743231",
+      "DOB": "15/07/2004",
+      "Photo": "https://drive.google.com/thumbnail?id=1IzBAg4vv0PKQxYp6ffsJDSxmu5WRXefG",
+      "Roll No": "2022011031"
+    },
+   
+        {
+            "Name": "ABHISHEK YADAV",
+            "DOB": "01/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661262957913_6024449_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHIVAM MALL",
+            "DOB": "01/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661268503903_6021833_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SWASTIKA GAHLOT",
+            "DOB": "01/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662613341670_6026664_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA KUMAR KASAUDHAN",
+            "DOB": "01/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660412675428_6019580_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "DIVENSH KUMAR GOND",
+            "DOB": "01/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661091696981_6022527_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NIKHIL CHAUBEY",
+            "DOB": "01/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660357162756_6018688_22.jpg",
+            "Branch": "EE.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRANJAL MISHRA",
+            "DOB": "01/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667986064882_6027422_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SYED ANSAF ALI",
+            "DOB": "01/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660891837671_6021915_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RATNESH PANDEY",
+            "DOB": "01/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660887516531_6022579_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SANDEEP KUMAR",
+            "DOB": "01/07/2006",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660619258446_6021110_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMISHA PATEL",
+            "DOB": "02/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660477566341_6019564_22.jpg",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MOHAMMAD SHOAIB",
+            "DOB": "02/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660996183136_6023139_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA PATEL",
+            "DOB": "02/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660830592071_6022260_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HARSH",
+            "DOB": "02/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662192652966_6026328_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KUBER PANDEY",
+            "DOB": "02/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660986152565_6023090_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ARYAN PANDEY",
+            "DOB": "02/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660818350614_6022182_22.jpg",
+            "Branch": "ECE.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA KUMAR",
+            "DOB": "03/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660494942896_6020470_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMAN SINGH",
+            "DOB": "03/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660928517886_6022402_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANJALI SHEKHAR",
+            "DOB": "03/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661253072021_6021336_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ARYAN YADAV",
+            "DOB": "03/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660540595531_6020658_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AWADESH KUMAR",
+            "DOB": "03/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660909522167_6022751_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "GORAKHLAL GUPTA",
+            "DOB": "03/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1668047517243_6027489_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NIKHIL CHANDRA",
+            "DOB": "03/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661016600694_6023276_22.png",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NEERAJ KUMAR",
+            "DOB": "04/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661338764242_6025083_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRASOON SINGH",
+            "DOB": "04/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661853266925_6025900_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "YUVRAJ CHAUDHARY",
+            "DOB": "04/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661250464677_6024309_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA SHARMA",
+            "DOB": "04/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660713216995_6021198_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KSHITIJ KUMAR",
+            "DOB": "04/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660576210759_6020251_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHUBHAM RAJ SINGH",
+            "DOB": "04/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661320672053_6023518_22.JPG",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANKUSH YADAV",
+            "DOB": "05/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661151264283_6023687_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ABHISHEK DUBEY",
+            "DOB": "05/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662123389733_6026275_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "UJJAWAL SRIVASTAVA",
+            "DOB": "05/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660469407664_6020180_22.png",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRANJAL SHUKLA",
+            "DOB": "05/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660921818960_6022810_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAMYAK JAIN",
+            "DOB": "05/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660646259015_6021341_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SIDDHARTHA PRATAP SINGH",
+            "DOB": "05/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660819338384_6022199_22.JPG",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "GAYATRI VERMA",
+            "DOB": "06/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661269547642_6024565_22.png",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANSHUL SINGH",
+            "DOB": "06/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661409527392_6025326_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "JYOTI KUMARI",
+            "DOB": "06/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660807628255_6021354_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MOHD OSAMA",
+            "DOB": "06/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660629871969_6021183_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASHISH KUMAR GAUTAM",
+            "DOB": "06/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660830955293_6022284_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VAISHNAVI SINGH",
+            "DOB": "06/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660545627048_6020709_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KUMARI NISHA",
+            "DOB": "07/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661237632521_6024228_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PARV GOEL",
+            "DOB": "07/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661160273569_6023337_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA KUMAR",
+            "DOB": "07/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660652228021_6021273_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "GITANSHI SETHI",
+            "DOB": "07/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661062568455_6023369_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MUNNA KUMAR",
+            "DOB": "07/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661696912342_6025649_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMAR SINGH GAUTAM",
+            "DOB": "07/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660391451552_6019019_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MOHAMMAD FARHAN",
+            "DOB": "08/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660983158106_6019404_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AYUSH JAISWAL",
+            "DOB": "08/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660883942845_6021061_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MANISHA TRIPATHI",
+            "DOB": "08/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660447422400_6019181_22.png",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MOHIT SRIVASTAVA",
+            "DOB": "08/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661110390454_6023664_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AKHIL PRATAP SINGH",
+            "DOB": "09/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660694057743_6021537_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HARSH VISHWAKARMA",
+            "DOB": "09/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661325060130_6019648_22.jpg",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SIDDHANT KUMAR",
+            "DOB": "09/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661584070769_6025549_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "DIKSHA SINGH",
+            "DOB": "09/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660919235369_6022827_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAHITYA PRAKASH",
+            "DOB": "10/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661161703691_6023869_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANURAG GUPTA",
+            "DOB": "10/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661011705447_6023267_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "DIVYANSHU",
+            "DOB": "10/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660657427651_6021416_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHIVAM GUPTA",
+            "DOB": "10/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660914011291_6021439_22.png",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VINIT KUMAR PAL",
+            "DOB": "10/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661248685369_6024183_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AADRIKA BARNWAL",
+            "DOB": "10/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660550844911_6020749_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMIT KUMAR",
+            "DOB": "10/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661886176345_6025974_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ATUL TIWARI",
+            "DOB": "10/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667982108000_6027377_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "GAURAV SINGH",
+            "DOB": "10/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662646856584_6026686_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NITESH KUMAR",
+            "DOB": "10/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660543395736_6019980_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "DEVESH YADAV",
+            "DOB": "10/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667830817612_6027257_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SURAJ KASAUDHAN",
+            "DOB": "10/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660547377719_6020699_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ARCHANA YADAV",
+            "DOB": "11/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667920309847_6027383_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RIYA",
+            "DOB": "11/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667900566830_6027367_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NILESH SINGH",
+            "DOB": "11/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661096733950_6023301_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AVANISH",
+            "DOB": "12/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661835028939_6025716_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KAJAL SINGH",
+            "DOB": "13/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661236086051_6024214_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KUNWAR SAURABH SINGH",
+            "DOB": "13/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661924728150_6025565_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MUSKAN SINGH",
+            "DOB": "13/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660809191756_6022095_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ARYANSH BACHCHAN",
+            "DOB": "14/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661181484716_6024030_22.png",
+            "Branch": "ME.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AVANTIKA SHARMA",
+            "DOB": "14/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661164225725_6023887_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HARSHVARDHAN DUBEY",
+            "DOB": "14/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662131575808_6025726_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VISHAL BHASKAR",
+            "DOB": "14/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661327129935_6024719_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASHUTOSH PRAJAPATI",
+            "DOB": "15/07/2001",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661867600922_6025833_22.jpg",
+            "Branch": "ME.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KHUSHI JAISWAL",
+            "DOB": "15/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661269747524_6024562_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RAJAT TRIPATHI",
+            "DOB": "15/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660538970565_6020627_22.jpg",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA SINGH",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660971270323_6022999_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANVITA KHARE",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661923455602_6026014_22.jpg",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASAD KHAN",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661158647035_6023819_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MANOJ KUMAR",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661324324488_6024819_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SACHIN CHAUDHARI",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661170718466_6023937_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VIDIT YADUVANCY",
+            "DOB": "15/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661264347812_6018931_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RAJ SHEKHAR",
+            "DOB": "15/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661326113234_6024835_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHEKHAR MISHRA",
+            "DOB": "15/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661860674684_6025918_22.jpg",
+            "Branch": "ME.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ABHINAV RAJ SHIKHAR",
+            "DOB": "16/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660911351780_6022769_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RAM SHUKLA",
+            "DOB": "16/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660621476981_6019756_22.png",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AKANKSHA SINGH",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660383085075_6018921_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANAS KAUSAR",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660459837924_6020027_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "NISHANT VERMA",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667817062728_6027315_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRAKHAR YADAV",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660831741559_6022289_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAMYAK SHEKHAR",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660456961115_6019929_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SATVIK TRIPATHI",
+            "DOB": "17/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660671778572_6021494_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASHUTOSH AGRAHARI",
+            "DOB": "18/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660371259781_6018734_22.jpg",
+            "Branch": "ECE.FW",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VINAY KUMAR",
+            "DOB": "18/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660660733114_6021432_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AKASH PATEL",
+            "DOB": "18/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661177206773_6023967_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HARSH KUMAR MADDHESHIYA",
+            "DOB": "18/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660660200396_6021437_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HIMANSHU PATWA",
+            "DOB": "18/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661149934439_6023661_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "HARSH SRIVASTAVA",
+            "DOB": "18/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661258060937_6024419_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SACHIN YADAV",
+            "DOB": "20/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660977992604_6023031_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SANJANA",
+            "DOB": "20/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660906247424_6022755_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "YUVRAJ",
+            "DOB": "20/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661251893525_6024326_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ALOK RATAN",
+            "DOB": "20/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660987180100_6023091_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KANISHKA SINGH",
+            "DOB": "20/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660831374118_6022076_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHUBHAM ARYA",
+            "DOB": "20/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660830096054_6022272_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SUNEEL YADAV",
+            "DOB": "20/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660464845556_6019837_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASHUTOSH JARWAL",
+            "DOB": "21/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1668049478466_6027495_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ARPIT MANI TRIPATHI",
+            "DOB": "21/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661255013423_6020512_22.jpg",
+            "Branch": "IT",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "RAJ VERMA",
+            "DOB": "21/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660973163382_6023005_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ADITYA YADAV",
+            "DOB": "21/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660535796522_6020349_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VAIBHAV SINGH",
+            "DOB": "21/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1668007777684_6027468_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "MRIGANG SHEKHAR PANDEY",
+            "DOB": "22/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660589692519_6020474_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ROMENDRA UTTAM",
+            "DOB": "22/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661858693555_6025911_22.png",
+            "Branch": "CHEMICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMAN PATEL",
+            "DOB": "22/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661264685497_6019100_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ASHISH JAISWAL",
+            "DOB": "23/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660499333401_6020467_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KAJAL YADAV",
+            "DOB": "23/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660707227297_6019859_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ISHAN VISEN",
+            "DOB": "24/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660911145673_6020502_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRANAO PANDEY",
+            "DOB": "24/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661065180031_6023404_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMRISH",
+            "DOB": "24/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661271047684_6023241_22.png",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "PRASHANT YADAV",
+            "DOB": "24/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660639726840_6021225_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ALIYA REHMAN",
+            "DOB": "25/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660751124627_6021882_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SHYAMU",
+            "DOB": "25/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667825064606_6027321_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SNEHA BHARTI",
+            "DOB": "25/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660418359888_6019695_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SUPARNA TRIPATHI",
+            "DOB": "25/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661281730116_6024661_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "KARTIKEY SINGH",
+            "DOB": "25/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660629014457_6021165_22.png",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ANANYA RAI",
+            "DOB": "26/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660459347523_6018896_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ABHINAV PRATAP SINGH",
+            "DOB": "26/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667881293164_6027350_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAMRIDDHI SRIVASTAVA",
+            "DOB": "27/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660481339874_6019986_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SANJANA SACHAN",
+            "DOB": "28/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661836018204_6025739_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "VARTIKA SINGH",
+            "DOB": "28/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660662256853_6021446_22.jpg",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "AMIT KUMAR",
+            "DOB": "29/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661858442584_6025797_22.png",
+            "Branch": "Electrical",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "DEV GOPAL MAHAUR",
+            "DOB": "30/07/2002",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661309343514_6022117_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAUMYA VERMA",
+            "DOB": "30/07/2003",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660573847397_6020537_22.jpg",
+            "Branch": "ECE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "SAWAN MISHRA",
+            "DOB": "30/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660825727311_6022239_22.jpg",
+            "Branch": "CSE",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "ROHIT KUMAR",
+            "DOB": "30/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1668047247077_6027487_22.jpg",
+            "Branch": "CIVIL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "FAIZ ABBASI",
+            "DOB": "31/07/2004",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660897645183_6019239_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        },
+        {
+            "Name": "YASHDEEP SINGH",
+            "DOB": "31/07/2005",
+            "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661326906529_6024895_22.jpg",
+            "Branch": "MECHANICAL",
+            "Year":"2nd Year"
+        }
+
+]
