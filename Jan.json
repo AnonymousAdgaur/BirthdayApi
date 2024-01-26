@@ -1,4 +1,5 @@
 [
+  
   {
     "Timestamp": "12/24/2023 20:27:20",
     "Email Address": "2023091016@mmmut.ac.in",
@@ -795,6 +796,14 @@
         "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661321655489_6024182_22.jpg",
         "Branch": "CSE",
         "Year":"2nd Year"
+    },
+  {
+        "Name": "SATYAM TIWARI",
+        "DOB": "26/01/2004",
+        "Photo": "https://media.licdn.com/dms/image/D4E03AQGcsRKSYxbJew/profile-displayphoto-shrink_400_400/0/1701102102762?e=1711584000&v=beta&t=K7qKEiOPr8sX0cIZGgH-dxcQVTjlLA9PCHPqoJ7vOZQ",
+        "Branch": "CSE",
+        "Year":"2nd Year"
     }
+ 
 
 ]
