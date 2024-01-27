@@ -1,5 +1,4 @@
 [
-  
   {
     "Timestamp": "12/24/2023 20:27:20",
     "Email Address": "2023091016@mmmut.ac.in",
@@ -19,7 +18,7 @@
     "Branch": "BBA",
     "Year": "1st Year",
     "Phone No.": "9935044354",
-    "DOB": "01/31/2004",
+    "DOB": "31/01/2004",
     "Photo": "https://drive.google.com/thumbnail?id=1ageoDAOaBJEyEAe8i3pDsAQHVABHlzfc",
     "Roll No": "2023081002"
   },
@@ -55,7 +54,7 @@
     "Branch": "Chemical",
     "Year": "1st Year",
     "Phone No.": "9555418409",
-    "DOB": "01/27/2007",
+    "DOB": "27/01/2007",
     "Photo": "https://drive.google.com/thumbnail?id=1T235PyxdZLc_zdLYpO6y-VUp6gTVTMrG",
     "Roll No": "2023061060"
   },
@@ -67,7 +66,7 @@
     "Branch": "CSE",
     "Year": "1st Year",
     "Phone No.": "9472363214",
-    "DOB": "01/16/2004",
+    "DOB": "16/01/2004",
     "Photo": "https://drive.google.com/thumbnail?id=1CU6l3MJU6MyGeRGm393jR7qqnXTFa92b",
     "Roll No": ""
   },
@@ -79,7 +78,7 @@
     "Branch": "CSE",
     "Year": "1st Year",
     "Phone No.": "7398703898",
-    "DOB": "01/15/2005",
+    "DOB": "15/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1-VwU2aQnvQ9qeWnWItupsMzqLejtPV_g",
     "Roll No": ""
   },
@@ -91,7 +90,7 @@
     "Branch": "CSE",
     "Year": "1st Year",
     "Phone No.": "6389414461",
-    "DOB": "01/05/2005",
+    "DOB": "05/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1-d2ZR3YXSmi_Jb_neNinON_gFGL5fQMN",
     "Roll No": "2023021032"
   },
@@ -103,7 +102,7 @@
     "Branch": "CSE",
     "Year": "1st Year",
     "Phone No.": "8545847352",
-    "DOB": "01/05/2005",
+    "DOB": "05/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1sRpVjAlLsKwA94gC977zRAD-NXBmjw5H",
     "Roll No": "2023021243"
   },
@@ -115,7 +114,7 @@
     "Branch": "CSE",
     "Year": "1st Year",
     "Phone No.": "8076131983",
-    "DOB": "01/14/2005",
+    "DOB": "14/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1CHeiCyfEmH7LF7JOfE8zdSFKWeOg2I8I",
     "Roll No": "2023021012"
   },
@@ -127,7 +126,7 @@
     "Branch": "EE",
     "Year": "1st Year",
     "Phone No.": "7007128135",
-    "DOB": "01/25/2005",
+    "DOB": "25/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1vSgVXgmE8n_1Gax41XMgfZfNWupQXWX9",
     "Roll No": "2023031107"
   },
@@ -139,7 +138,7 @@
     "Branch": "IOT",
     "Year": "1st Year",
     "Phone No.": "9113451857",
-    "DOB": "01/14/2005",
+    "DOB": "14/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1pcyrJDJYSGt7vJzNsHPlIxWmMCucAVCF",
     "Roll No": "2023041236"
   },
@@ -151,7 +150,7 @@
     "Branch": "IOT",
     "Year": "1st Year",
     "Phone No.": "7985326244",
-    "DOB": "01/13/2004",
+    "DOB": "13/01/2004",
     "Photo": "https://drive.google.com/thumbnail?id=1Vvg6uVZuoctxizUqsrH-VDhef166wUM5",
     "Roll No": "2023041267"
   },
@@ -163,7 +162,7 @@
     "Branch": "IOT",
     "Year": "1st Year",
     "Phone No.": "7985326244",
-    "DOB": "01/13/2004",
+    "DOB": "13/01/2004",
     "Photo": "https://drive.google.com/thumbnail?id=1aZSdqIEqQkO1_14zzJLa8vlN8mtcuHJl",
     "Roll No": "2023041267"
   },
@@ -175,7 +174,7 @@
     "Branch": "IT",
     "Year": "1st Year",
     "Phone No.": "9120110400",
-    "DOB": "01/29/2003",
+    "DOB": "29/01/2003",
     "Photo": "https://drive.google.com/thumbnail?id=10D3qOa3rqLSDGhTwO7bN8ykBusUc0BbB",
     "Roll No": ""
   },
@@ -187,7 +186,7 @@
     "Branch": "IT",
     "Year": "1st Year",
     "Phone No.": "9569707982",
-    "DOB": "01/14/2004",
+    "DOB": "14/01/2004",
     "Photo": "https://drive.google.com/thumbnail?id=10-OknyctQkvKB2akSdPdzY8VkbeXAFEt",
     "Roll No": "2023071039"
   },
@@ -199,7 +198,7 @@
     "Branch": "Mech",
     "Year": "1st Year",
     "Phone No.": "9415605275",
-    "DOB": "01/04/2005",
+    "DOB": "04/01/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1BmCJ9RlH7HfheWE0npVn8HcPFdf4dD-x",
     "Roll No": "2023051076"
   },
@@ -797,13 +796,12 @@
         "Branch": "CSE",
         "Year":"2nd Year"
     },
-  {
+    {
         "Name": "SATYAM TIWARI",
         "DOB": "26/01/2004",
         "Photo": "https://media.licdn.com/dms/image/D4E03AQGcsRKSYxbJew/profile-displayphoto-shrink_400_400/0/1701102102762?e=1711584000&v=beta&t=K7qKEiOPr8sX0cIZGgH-dxcQVTjlLA9PCHPqoJ7vOZQ",
         "Branch": "CSE",
         "Year":"2nd Year"
     }
- 
 
 ]
