@@ -321,7 +321,707 @@
     "DOB": "08/08/2005",
     "Photo": "https://drive.google.com/thumbnail?id=1Eh_02D-3r-W4VrXSnA9P3c8vHBhpWxtr",
     "Roll No": "2023051158"
-  }
+  },
  
-   
+    {
+        "Name": "ADITYA MODANWAL",
+        "DOB": "01/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660830808371_6022258_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ADARSH CHAUDHARY",
+        "DOB": "01/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660494474145_6020460_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHUBHAM CHAURASIYA",
+        "DOB": "01/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661174293660_6023960_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHUBHAM KUMAR",
+        "DOB": "01/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660629209475_6020612_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RAJ JAISWAL",
+        "DOB": "02/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660973678643_6022718_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRANJAL YADAV",
+        "DOB": "02/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661323078548_6024842_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RAMESH CHAND",
+        "DOB": "02/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661258581323_6024421_22.jpg",
+        "Branch": "EE.FW",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SANDEEP GUPTA",
+        "DOB": "03/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660620828137_6019376_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "DEVYANSHI SINGH",
+        "DOB": "03/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667985768532_6027406_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "HIMANI RAJPUT",
+        "DOB": "03/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661189291536_6024094_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SUMIT SHUKLA",
+        "DOB": "03/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661506025400_6025450_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANKITA KUMARI",
+        "DOB": "03/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660490536187_6019143_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "DIVYANSH OJHA",
+        "DOB": "04/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661918502237_6025995_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ABHILASHA PATHAK",
+        "DOB": "04/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660389130014_6019030_22.jpg",
+        "Branch": "CHEMICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "NEHA KUMARI",
+        "DOB": "04/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660886450655_6022503_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AASTHA SINGH",
+        "DOB": "05/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661258853107_6024134_22.png",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ALOK YADAV",
+        "DOB": "05/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660575003212_6020862_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRACHI PATEL",
+        "DOB": "05/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662797026644_6027094_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VARUN",
+        "DOB": "05/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660454684702_6019937_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AYUSH SHARMA",
+        "DOB": "06/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661946334957_6026128_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MANAS MANI TRIPATHI",
+        "DOB": "06/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660990837563_6022793_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SURYANSH JAISWAL",
+        "DOB": "06/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661128768280_6023269_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ADITYA TRIPATHI",
+        "DOB": "07/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660796283415_6019815_22.jpg",
+        "Branch": "IT.FW",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRIYANSHU SRIVASTAVA",
+        "DOB": "07/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661931481837_6026032_22.png",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANURAG KUMAR CHAUDHARY",
+        "DOB": "08/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660920835212_6022871_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANURAG NANDAN SINGH",
+        "DOB": "08/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662742276907_6026958_22.png",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "HIMANSHU SINGH",
+        "DOB": "08/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661215659224_6024125_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RISHABH GUPTA",
+        "DOB": "08/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662647335314_6026753_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "TANMAY SRIVASTAVA",
+        "DOB": "08/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661248350086_6023834_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SUHEL AHMAD",
+        "DOB": "08/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667992346517_6027429_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VISHAL PASWAN",
+        "DOB": "09/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662305608318_6026406_22.JPG",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SANGAM KUMAR RAO",
+        "DOB": "09/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660457897971_6019111_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANUJ KUMAR",
+        "DOB": "10/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661344513942_6025094_22.png",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AYUSH SHARMA",
+        "DOB": "10/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660408279518_6019506_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRATYUSH SHARMA",
+        "DOB": "10/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660409573722_6019578_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RAMPRAVESH YADAV",
+        "DOB": "10/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661065505930_6023230_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHREYA",
+        "DOB": "10/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660924192695_6022889_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VIKASH MISHRA",
+        "DOB": "11/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660806650744_6021464_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VINEET BHASHKAR",
+        "DOB": "11/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661316738553_6024662_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AYUSH SINGH",
+        "DOB": "11/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660663793293_6021455_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANSH SHUKLA",
+        "DOB": "11/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660401842466_6019178_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AMOSH SINGH",
+        "DOB": "12/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660974210552_6019128_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "HARSH SINGH",
+        "DOB": "12/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660569088194_6020895_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRANVI JAISWAL",
+        "DOB": "12/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661243704057_6024261_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHIVAM PAL",
+        "DOB": "13/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661349842445_6025088_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANKIT KUMAR",
+        "DOB": "13/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660794097919_6022005_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SIYA  KUMARI",
+        "DOB": "13/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667840578563_6027343_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "JYOTI SINGH",
+        "DOB": "13/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660811133831_6020388_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RICHA MISHRA",
+        "DOB": "13/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660487294361_6020363_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHRUTI SINGH",
+        "DOB": "13/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662793035058_6027064_22.jpg",
+        "Branch": "CHEMICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANSHUL YADAV",
+        "DOB": "14/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660705256128_6021555_22.JPG",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ARYAN SINGH",
+        "DOB": "15/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660791230424_6021989_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "NITISH KUMAR GOND",
+        "DOB": "15/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660380295407_6018865_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AHAD ASHRAF",
+        "DOB": "15/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660473924997_6020201_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MAYANK KUSHWAH",
+        "DOB": "15/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660705756923_6021554_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHIVAM PRAKASH",
+        "DOB": "15/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660415083536_6019665_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANSHIKA GUPTA",
+        "DOB": "17/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661940275562_6025907_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MANISH KUMAR",
+        "DOB": "17/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660740979986_6021784_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MANISH KUMAR",
+        "DOB": "17/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661319483209_6020227_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AKANKSHA",
+        "DOB": "17/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660903867922_6022736_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VAIBHAV UPADHYAY",
+        "DOB": "17/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660382735906_6018927_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ASHUTOSH PANDEY",
+        "DOB": "17/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661327628852_6024884_22.png",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "UJJWAL SINGH",
+        "DOB": "17/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661867818879_6025936_22.JPG",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VIVEK KUMAR",
+        "DOB": "17/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662703805155_6026376_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MUSKAN KUMARI",
+        "DOB": "17/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661272276668_6024537_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ADITYA SARASWAT",
+        "DOB": "18/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661005503696_6022857_22.png",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AKASH GUPTA",
+        "DOB": "18/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660374006275_6018762_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ARYAN SINGH",
+        "DOB": "18/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660592459406_6021068_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ASHWANI KUSHWAHA",
+        "DOB": "18/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660722723274_6021667_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "MOHD AQIB KHAN",
+        "DOB": "18/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661255422903_6024213_22.jpg",
+        "Branch": "CE.FW",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRANJAL GUPTA",
+        "DOB": "18/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661175778004_6023970_22.JPG",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RUDRA DUBEY",
+        "DOB": "18/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660912828310_6022812_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ADAMYA SINGH",
+        "DOB": "19/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661241627779_6024247_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANSHUMAN SRIVASTAVA",
+        "DOB": "19/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660394434092_6019130_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "DEVANSH SINGH",
+        "DOB": "20/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660549571142_6020636_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ARCHIT SRIVASTAVA",
+        "DOB": "21/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660928375016_6019271_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "JAHNVI PANDEY",
+        "DOB": "21/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660804879430_6022045_22.jpg",
+        "Branch": "CHEMICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SUBODH KUMAR",
+        "DOB": "21/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661937237164_6025314_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AYUSH VERMA",
+        "DOB": "21/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660807998440_6022138_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AAKASH VERMA",
+        "DOB": "22/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661596417556_6025562_22.jpg",
+        "Branch": "ME.FW",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANJALI GUPTA",
+        "DOB": "22/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661870653678_6025782_22.png",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ROBIN KUMAR",
+        "DOB": "22/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662733043810_6026923_22.jpg",
+        "Branch": "CHEMICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SWATI SINHA",
+        "DOB": "23/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660897427754_6022674_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VEDANSH AGRAWAL",
+        "DOB": "24/08/2002",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661065070740_6022408_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "YASHI KARDAM",
+        "DOB": "24/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660559593422_6019864_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "DIVYA AKARSH PATHAK",
+        "DOB": "25/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660902647887_6021659_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ABHAY SINGH YADAV",
+        "DOB": "25/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660406423639_6019421_22.png",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "HARI OM",
+        "DOB": "25/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662101160684_6026250_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "VIKASH NISHAD",
+        "DOB": "26/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660409478797_6019495_22.jpg",
+        "Branch": "Electrical",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRABHAT YADAV",
+        "DOB": "27/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660374871621_6018778_22.jpg",
+        "Branch": "IT",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "DHEERAJ PANDEY",
+        "DOB": "28/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660632196904_6021226_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "SHASHANK MOHAN PANDEY",
+        "DOB": "28/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661345257745_6024716_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ABHINAV PATEL",
+        "DOB": "29/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660490317255_6020428_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANUBHAB MOWAR",
+        "DOB": "31/08/2001",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660879406939_6022501_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "RAMAN PATHAK",
+        "DOB": "31/08/2003",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661314721661_6024743_22.jpg",
+        "Branch": "CIVIL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ABHISHEK YADAV",
+        "DOB": "31/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662709993099_6026842_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "ANIKET SHUKLA",
+        "DOB": "31/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1661267456681_6020192_22.jpg",
+        "Branch": "CSE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "AYUSHDEEP  MAURYA",
+        "DOB": "31/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1662467014953_6026420_22.jpg",
+        "Branch": "ECE",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "KRISHNA VENU TRIPATHI",
+        "DOB": "31/08/2004",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1667830821369_6027331_22.jpg",
+        "Branch": "MECHANICAL",
+        "Year":"2nd Year"
+    },
+    {
+        "Name": "PRAKRITI",
+        "DOB": "31/08/2005",
+        "Photo": "https://s3-us-west-2.amazonaws.com/dbsmedia/MMMUT_C/Photo_1660465357565_6020124_22.jpg",
+        "Branch": "CHEMICAL",
+        "Year":"2nd Year"
+    }
+
 ]
